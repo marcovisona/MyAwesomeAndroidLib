@@ -1,0 +1,4 @@
+MyAwesomeAndroidLib
+===================
+
+Testing android library
